@@ -8,7 +8,7 @@
 
 #### 2. An Local Image
 
-<img src="../../Library/Application Support/typora-user-images/截屏2021-04-28 下午8.56.37.png" alt="截屏2021-04-28 下午8.56.37" style="zoom:33%;" />
+<img src="Unti1.assets/截屏2021-04-28 下午8.56.37.png" alt="截屏2021-04-28 下午8.56.37" style="zoom:33%;" />
 
 #### 3. An Image from URL
 
